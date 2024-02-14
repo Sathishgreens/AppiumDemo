@@ -1,0 +1,10 @@
+package org.appiumpractice;
+
+import org.testng.annotations.Test;
+
+public class Sample {
+	@Test
+	private void tc1() {
+		
+	}
+}
