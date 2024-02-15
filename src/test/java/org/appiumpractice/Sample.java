@@ -7,4 +7,14 @@ public class Sample {
 	private void tc1() {
 		
 	}
+	
+	
+	
+	
+	@Test
+	private void tc4() {
+		
+	}
+	
+	
 }
