@@ -7,12 +7,19 @@ public class Sample {
 	private void tc1() {
 		
 	}
+
+	
 	@Test
 	private void tc2() {
 		
 	}
 	@Test
 	private void tc3() {
+	
+	
+	@Test
+	private void tc4() {
+
 		
 	}
 	
