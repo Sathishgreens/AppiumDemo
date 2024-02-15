@@ -11,4 +11,10 @@ public class Sample {
 	private void tc2() {
 		
 	}
+	@Test
+	private void tc3() {
+		
+	}
+	
+	
 }
